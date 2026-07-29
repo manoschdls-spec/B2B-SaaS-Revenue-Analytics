@@ -1,5 +1,5 @@
 # B2B SaaS Revenue Analytics
-! [Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 A revenue analytics pipeline for B2B SaaS companies — computes the core metrics that actually matter for growth decisions: **MRR movement, Net Revenue Retention, churn, and unit economics (CAC/LTV)**.
 
 Built on a simulated 24-month SaaS billing dataset (500 customers, 3 pricing tiers, realistic segment/plan behavior) to demonstrate the full analytics workflow end to end: raw billing events → clean metrics → business insight.
